@@ -1,5 +1,7 @@
 ### JOB 找工啦
 
+[English Version](https://github.com/YiChen8185/JOB/blob/main/Job%20Preparing.md)
+[Job Hunting](https://github.com/YiChen8185/JOB/blob/main/Job%20Search.md)
 This repo is a record of all the resources I have found online that are useful for job hunting, rewriting resumes, preparing for interviews, gaining computer science knowledge, and more.
 
 ### Basic Knowledge 八股文
