@@ -16,6 +16,8 @@ This repo is a record of all the resources I have found online that are useful f
 
 https://www.frontendpractice.com/： 网页的UI感觉非常好看（没有实际用过）
 
+[StreamLit](https://streamlit.io/generative-ai) : 可以使用这个框架做很多的AI项目，值得学习一下，有很多开源的在网站中。
+
 ## Coding Problem 算法题目
 
 https://labuladong.online/algo/home/：一个中文的算法网站
