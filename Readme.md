@@ -4,11 +4,13 @@
 
 This repo is a record of all the resources I have found online that are useful for job hunting, rewriting resumes, preparing for interviews, gaining computer science knowledge, and more.
 
-## Basic Knowledge 八股文
+## Coding Problem 算法题目
 
-[八股文](https://github.com/febobo/web-interview): 包含了大量的基础知识，还算是比较全面。（里面的知识不是100%正确）（中文）
+[labuladong](https://labuladong.online/algo/home/) ：一个中文的算法网站
 
-[RoadMap](https://roadmap.sh/frontend?r=frontend-beginner): 以roadmap的形式说明需要的所有技术栈，并且有相关的学习网站。（In English）
+[来Offer](https://laioffer.com/zh/videos/coding-interview/) ：一些免费的讲解视频
+
+[Neetcode](https://neetcode.io/practice) ：一套做题网站，可以跟着做！
 
 ## Project/demo 项目
 
@@ -18,15 +20,11 @@ https://www.frontendpractice.com/： 网页的UI感觉非常好看（没有实�
 
 [StreamLit](https://streamlit.io/generative-ai) : 可以使用这个框架做很多的AI项目，值得学习一下，有很多开源的在网站中。
 
-## Coding Problem 算法题目
+## Basic Knowledge 八股文
 
-[labuladong](https://labuladong.online/algo/home/) ：一个中文的算法网站
+[八股文](https://github.com/febobo/web-interview): 包含了大量的基础知识，还算是比较全面。（里面的知识不是100%正确）（中文）
 
-[来Offer](https://laioffer.com/zh/videos/coding-interview/) ：一些免费的讲解视频
-
-[Neetcode](https://neetcode.io/practice) ：一套做题网站，可以跟着做！
-
-[Just for Test]
+[RoadMap](https://roadmap.sh/frontend?r=frontend-beginner): 以roadmap的形式说明需要的所有技术栈，并且有相关的学习网站。（In English）
 
 ## Interview
 
