@@ -1,7 +1,5 @@
 ### JOB 找工啦
 
-[English Version](https://github.com/YiChen8185/JOB/blob/main/Job%20Preparing.md)
-
 This repo is a record of all the resources I have found online that are useful for job hunting, rewriting resumes, preparing for interviews, gaining computer science knowledge, and more.
 
 ## Coding Problem 算法题目
@@ -19,6 +17,8 @@ This repo is a record of all the resources I have found online that are useful f
 https://www.frontendpractice.com/： 网页的UI感觉非常好看（没有实际用过）
 
 [StreamLit](https://streamlit.io/generative-ai) : 可以使用这个框架做很多的AI项目，值得学习一下，有很多开源的在网站中。
+
+https://www.youtube.com/playlist?list=PL6QREj8te1P7gixBDSU8JLvQndTEEX3c3 ： Youtube，跟着学。
 
 ## Basic Knowledge 八股文
 
