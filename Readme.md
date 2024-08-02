@@ -9,6 +9,7 @@ This repo is a record of all the resources I have found online that are useful f
 [来Offer](https://laioffer.com/zh/videos/coding-interview/) ：一些免费的讲解视频
 
 [Neetcode](https://neetcode.io/practice) ：一套做题网站，可以跟着做！
+[代码随想录](https://programmercarl.com/)：中文算法学习网站。
 
 ## Project/demo 项目
 
