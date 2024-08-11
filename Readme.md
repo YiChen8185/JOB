@@ -12,7 +12,7 @@ This repo is a record of all the resources I have found online that are useful f
 
 [代码随想录](https://programmercarl.com/)：中文算法学习网站。
 
-[OA 合集】（https://github.com/perixtar/2024-Tech-OA?tab=readme-ov-file）：有人整理的之前各个大公司出的OA
+[OA 合集](https://github.com/perixtar/2024-Tech-OA?tab=readme-ov-file): 有人整理的之前各个大公司出的OA
 
 ## Project/demo 项目
 
