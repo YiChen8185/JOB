@@ -36,5 +36,7 @@ https://www.youtube.com/playlist?list=PL6QREj8te1P7gixBDSU8JLvQndTEEX3c3 ： You
 
 ## Other
 
+[如何成为一个合格的计算机编程从业者](https://github.com/alwayrun/awesome-reading-list)
+
 [Job Hunting]([https://github.com/YiChen8185/JOB/blob/main/Job%20Search.md](https://github.com/YiChen8185/JOB/blob/main/Job%20Hunting.md))
 
