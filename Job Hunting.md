@@ -1,6 +1,11 @@
 # Job Hunting
 
-Handshake > Indeed > LinkedIn.
+- Handshake
+
+- Indeed
+- LinkedIn.
+- YC
+- 
 
 
 
