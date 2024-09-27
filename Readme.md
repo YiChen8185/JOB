@@ -2,6 +2,8 @@
 
 This repo is a record of all the resources I have found online that are useful for job hunting, rewriting resumes, preparing for interviews, gaining computer science knowledge, and more.
 
+完善简历（项目，linkedin，Github等等），提高软实力和硬实力。
+
 ## Coding Problem 算法题目
 
 [labuladong](https://labuladong.online/algo/home/) ：一个中文的算法网站
@@ -24,15 +26,17 @@ https://www.frontendpractice.com/： 网页的UI感觉非常好看（没有实�
 
 https://www.youtube.com/playlist?list=PL6QREj8te1P7gixBDSU8JLvQndTEEX3c3 ： Youtube，跟着学。
 
-## Basic Knowledge 八股文
+https://github.com/bradtraversy/50projects50days: 50 projects
+
+## Basic Knowledge
 
 [八股文](https://github.com/febobo/web-interview): 包含了大量的基础知识，还算是比较全面。（里面的知识不是100%正确）（中文）
 
-[RoadMap](https://roadmap.sh/frontend?r=frontend-beginner): 以roadmap的形式说明需要的所有技术栈，并且有相关的学习网站。（In English）
+[RoadMap](https://roadmap.sh/frontend?r=frontend-beginner): 以roadmap的形式说明需要的所有技术栈，并且有相关的学习网站。主网页包括前端，后端等。
 
 ## Interview
 
-
+BQ：这个实际上可以有大量的模版。
 
 ## Other
 
