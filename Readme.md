@@ -28,6 +28,8 @@ https://www.youtube.com/playlist?list=PL6QREj8te1P7gixBDSU8JLvQndTEEX3c3 ： You
 
 https://github.com/bradtraversy/50projects50days: 50 projects
 
+[Product Hunt](https://www.producthunt.com/): This website will show interest product they find.
+
 ## Basic Knowledge
 
 [八股文](https://github.com/febobo/web-interview): 包含了大量的基础知识，还算是比较全面。（里面的知识不是100%正确）（中文）
