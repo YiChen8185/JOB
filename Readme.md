@@ -46,3 +46,7 @@ BQ：这个实际上可以有大量的模版。
 
 [Job Hunting]([https://github.com/YiChen8185/JOB/blob/main/Job%20Search.md](https://github.com/YiChen8185/JOB/blob/main/Job%20Hunting.md))
 
+## 个人网站
+
+[Yi's Notion Web](https://yicchen.notion.site/Yi-s-Website-121b35274a2580d69971c067191b2c5a)：研究了一下，直接用notion来做网站比Github好看一些，也似乎编辑一些！
+
